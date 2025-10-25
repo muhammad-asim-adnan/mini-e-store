@@ -23,9 +23,9 @@ The **Mini E-Store** project is a lightweight, full-stack e-commerce application
 ---
 
 ## Backend Setup
-1. Navigate to the backend folder:
+1. Navigate to the estore_backend folder:
    ```bash
-   cd backend
+   cd estore_backend
    ```
 2. Install dependencies:
    ```bash
@@ -68,9 +68,9 @@ The **Mini E-Store** project is a lightweight, full-stack e-commerce application
 ---
 
 ## Frontend Setup
-1. Navigate to the frontend folder:
+1. Navigate to the estore_frontend folder:
    ```bash
-   cd frontend
+   cd estore_frontend
    ```
 2. Install dependencies:
    ```bash
